@@ -6,6 +6,7 @@ Every second counts in an emergency room. Imagine a hospital struggling with une
 ---
 
  **🚨 Problem Statement**
+ 
 Emergency rooms often face unpredictable patient volumes, leading to **long wait times, overwhelmed staff, and inconsistent referral patterns.** The goal of this analysis was to identify key trends that impact hospital operations and provide **data-driven solutions for better resource allocation.**
 
 ---
